@@ -4,3 +4,5 @@
 *.css linguist-vendored
 *.js linguist-vendored
 *.scss linguist-vendored
+*.cshtml linguist-vendored
+*.pug linguist-vendored
