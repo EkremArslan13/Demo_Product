@@ -1,0 +1,14 @@
+﻿Arama işlemi
+üyelik sistemi
+ıdentity kütüphanesi
+Yardım popup
+Ayarlar
+Çıkış yap
+Giriş yap
+Yeni üye kaydı
+Admin Aspnet User
+Publish
+Projenin canlıya taşınması  
+
+
+      
